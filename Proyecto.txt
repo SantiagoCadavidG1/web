@@ -1,0 +1,3 @@
+Esta es la informacion del proyecto de desarrollo de apps web 2020-1.
+El proyecto constara de una pagina de venta de teclados mecanicos.
+El proyecto es desarrollado por Santiago Cadavid Gil y Julio Cesar Zapata.
